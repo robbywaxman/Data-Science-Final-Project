@@ -1,2 +1,2 @@
-# Data-Science-Soccer
-Repo for Data Science Project on Soccer
+# Data-Science-Final-Project
+Repo for Data Science Final Project
